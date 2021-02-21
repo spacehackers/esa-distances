@@ -6,7 +6,7 @@ however the response body fails to `JSON.parse()` because it contains scientific
 
 ### todo
 
-keep it simple at <some hosting>, fetch the remote and host it as-is.
+keep it simple at \<some hosting>, fetch the remote and host it as-is.
 
 can use this regex to replace it with number on frontend:
 
