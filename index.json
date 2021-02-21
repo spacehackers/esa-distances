@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+
+    <meta http-equiv="Cache-Control" content="max-age=6000">
+    <script type="text/javascript" src="esa_data.js"></script>
+
+    <script>
+        load()
+        console.log(data)
+    </script>
+</head>
+<body>
+
+
+    <script>
+        document.body.innerHTML = JSON.stringify(data);
+    </script>
+</body>
