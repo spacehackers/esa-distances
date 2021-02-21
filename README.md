@@ -1,6 +1,6 @@
 ## tried a thing, did not work
 
-`esa_data.js` will fetch remote json defined in `crontab.bash`
+`esa_data.js` will fetch remote json at http://estracknow.esa.int/live/mission/SOLO 
 
 however the response body will not `JSON.parse()` because it contains scientific notation without quotes around it
 
