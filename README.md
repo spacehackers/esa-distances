@@ -1,6 +1,6 @@
 ## this doesn't work
 
-`esa_data.js` will fetch remote json defined in `<a href = "https://github.com/spacehackers/esa-distances/blob/main/cronjob.bash">crontab.bash</a>`
+`esa_data.js` will fetch remote json defined in `crontab.bash`
 
 however the response body fails to `JSON.parse()` because it contains scientific notation without quotes around it
 
