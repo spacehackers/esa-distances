@@ -1,4 +1,4 @@
-## this doesn't work
+## tried a thing, did not work
 
 `esa_data.js` will fetch remote json defined in `crontab.bash`
 
